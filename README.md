@@ -1,4 +1,6 @@
-# ESDRAS-REIS
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF00F7&center=true&width=435&lines=HELLO!%2C++MY+NAME+is++Esdras+Reis+;I+study+D.S.M+at+Fatec;Multiplatform+Software+Development;Be+Welcome!!+%3A)" alt="Typing SVG" /></a>
+
 <table>
   <a href="https://github.com/leehxd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Esdras34&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
