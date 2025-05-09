@@ -13,7 +13,6 @@
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
   <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
 </table>
-
 <div> 
 <div> 
   <a href="https://www.instagram.com/king_esdras/" target="_blank">
@@ -31,9 +30,6 @@
 </div>
 
 </div>
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Esdras34&line=8904B1&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#8438a6&height=120&section=footer"/>
