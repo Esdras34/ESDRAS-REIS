@@ -1,10 +1,11 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#8438a6&height=120&section=header"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF00F7&center=true&width=435&lines=HELLO!%2C++MY+NAME+is++Esdras+Reis+;I+study+D.S.M+at+Fatec;Multiplatform+Software+Development;Be+Welcome!!+%3A)" alt="Typing SVG" /></a>
 
 <table>
   <a href="https://github.com/leehxd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Esdras34&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdras34&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Esdras34&show_icons=true&hide_border=true&bg_color=00000000&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdras34&layout=compact&bg_color=00000000&hide_border=true&langs_count=6&theme=tokyonight"/>
   <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React Native">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
@@ -30,3 +31,9 @@
 </div>
 
 </div>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Esdras34&line=8904B1&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#8438a6&height=120&section=footer"/>
